@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+setuptools>=65.5.1
+flask==2.3.3
+numpy==1.23.5
+pillow==9.5.0
+pytesseract==0.3.10
+opencv-python==4.8.0.76
+tensorflow==2.15.0; platform_system != "Darwin" or platform_machine != "arm64"
+=======
+setuptools>=65.5.1
+flask==2.3.3
+numpy==1.23.5
+pillow==9.5.0
+pytesseract==0.3.10
+opencv-python==4.8.0.76
+tensorflow==2.15.0; platform_system != "Darwin" or platform_machine != "arm64"
+>>>>>>> 0048b2b94232330e97bde49f81c053d617e2b643
+tensorflow-macos==2.15.0; platform_system == "Darwin" and platform_machine == "arm64" 
